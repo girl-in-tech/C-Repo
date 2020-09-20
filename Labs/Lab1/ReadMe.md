@@ -1,6 +1,6 @@
 
 
-                                      # Lucrare de laborator nr.1        
+# Lucrare de laborator nr.1        
       Tema:  Utilizarea instrucțiunilor liniare și condiționale în limbjul C
 
 Scopul lucrării: Studierea tehnicilor și metodelor de utilizare a instrucțiunilor condiționale, de citire a informației de la tastatură și de afișare a informației pe ecran pentru calculul diverselor funcții matematice în limbajul C. 
